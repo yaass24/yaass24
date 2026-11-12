@@ -30,7 +30,7 @@
 ### Featured Projects
 
 <a href="https://hajar-landmark-quest.replit.app/">
-  <img src="Hajar-saud.png" width="250" alt="HAJAR — Saud and Nakhool">
+  <img src="Hajar-saud.png" width="125" alt="HAJAR — Saud and Nakhool">
 </a>
 
 **HAJAR | هَجَر**
