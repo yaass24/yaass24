@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yasmin Almomen — Computer Information Systems](assets/banner.svg)
+![Yasmin Almomen — Computer Information Systems](assets/banner.svg?v=20261112-terminal)
 
 ### Computer Information Systems · Imam Abdulrahman Bin Faisal University
 
