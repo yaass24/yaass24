@@ -27,18 +27,6 @@
 }
 ```
 
-### Featured Projects
-
-<a href="https://hajar-landmark-quest.replit.app/">
-  <img src="Hajar-saud.png" width="125" alt="HAJAR — Saud and Nakhool">
-</a>
-
-**HAJAR | هَجَر**
-
-Interactive 3D adventure inspired by the heritage of Al-Ahsa.
-
-[Play the game](https://hajar-landmark-quest.replit.app/) · [Project repository](https://github.com/yaass24/Hajar)
-
 ### Areas of Interest
 
 **Data Analytics** · **Business Intelligence** · **UX/UI Design** · **Systems Analysis** · **Project Management**
