@@ -29,7 +29,7 @@
 
 ### Featured Projects
 
-<a href="https://hajar-landmark-quest.replit.app/"><img src="assets/hajar.png" width="170" alt="HAJAR — Saud and Nakhool"></a>
+<a href="https://hajar-landmark-quest.replit.app/"><img src="assets/hajar.webp" width="170" alt="HAJAR — Saud and Nakhool"></a>
 
 **HAJAR | هَجَر**
 
